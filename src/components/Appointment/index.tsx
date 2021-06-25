@@ -9,7 +9,7 @@ import CalendarSvg from '../../assets/calendar.svg'
 import{RectButton, RectButtonProps } from 'react-native-gesture-handler'
 import {GuildIcon} from '../../components/GuildIcon'
 import { categories } from "../../utius/categories";
-import { theme } from "../../Global/styles/theme";
+import { theme } from '../../Global/styles/theme';
 
 export type GuildProps ={
     owner:  true;   
